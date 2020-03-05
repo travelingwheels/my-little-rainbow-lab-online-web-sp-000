@@ -23,16 +23,16 @@ div {
 }
 
 #green{
-  : #00bc3f;
+  border-top-color: #00bc3f;
 }
 
 #blue{
-  colo: #06f;
+  : #06f;
 }
 
 #indigo{
-  colo: #8a2be2;
+  : #8a2be2;
 }
 #violet{
-  colo: #d300c9;
+  : #d300c9;
 }
